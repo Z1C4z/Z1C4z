@@ -38,9 +38,9 @@ Esboço, informações não 100% verdadeiras
 
 <div align="center">
 
-![Z1C4 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z1C4&show_icons=true&theme=tokyonight&hide_border=true)
+![Z1C4 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z1C4z&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1C4&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1C4z&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -50,7 +50,7 @@ Esboço, informações não 100% verdadeiras
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Z1C4&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Z1C4z&theme=tokyonight&hide_border=true)
 
 </div>
 
