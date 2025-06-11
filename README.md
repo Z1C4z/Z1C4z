@@ -1,51 +1,68 @@
 Esboço, informações não 100% verdadeiras
-# 👋 Olá! Eu sou o Z1C4
+<h1 align="center">👋 Olá, eu sou o Z1C4</h1>
 
-🎮 Game Designer & Desenvolvedor de Jogos Digitais  
-🧠 Apaixonado por gameplay criativo, sistemas únicos e experiências interativas
-
----
-
-## 💼 Projetos em Destaque
-
-- 🧠 **Hero Shooter MOBA com Colossos**  
-  Um jogo competitivo onde equipes enfrentam colossos gigantes no centro do mapa.  
-  Classes únicas: Dominador, Abatedor, Suporte, Trapaceiro e Caçador.
-
-- 🐸 **Jogo de Ritmo e Plataforma 2D**  
-  Protagonizado por um sapo de olhos vermelhos da floresta amazônica.  
-  Lute e desvie de obstáculos no ritmo da música.
-
-- 🛒 **Mercado Didático**  
-  Um sistema para gerenciamento de supermercados, com controle de estoque, compras e histórico de alterações.  
-  Tecnologias: HTML, CSS, JavaScript.
-
-- 📱 **Apps com Flutter & Realidade Aumentada com Godot**  
-  Experimentos com sensores do celular, AR e integração com Python para hand tracking.
+<p align="center">
+🎮 Game Designer & Desenvolvedor de Jogos<br>
+🧠 Explorando gameplay criativo, mecânicas únicas e tecnologias imersivas
+</p>
 
 ---
 
-## 🧩 Tecnologias & Ferramentas
+## 🚀 Sobre mim
 
-- **Game Engines:** Godot, Unity  
-- **Frontend:** HTML, CSS, JavaScript, Flutter  
-- **AR & AI:** MediaPipe, hand tracking, integração Python ↔ Godot  
-- **Controle de versão:** Git & GitHub
-
----
-
-## 📌 Objetivo
-
-Me tornar um **grande desenvolvedor e designer de jogos**, dominando tanto a parte técnica quanto criativa — com foco em mecânicas originais, experiências memoráveis e fluidez de jogabilidade.
+- 🎯 Criador de um **Hero Shooter MOBA com Colossos**
+- 🐸 Dev de um jogo **ritmado de plataforma 2D**, estrelando um sapo amazônico
+- 📱 Experimentando **AR com Godot** e **hand tracking com Python + MediaPipe**
+- 🛒 Desenvolvedor de um sistema de **gerenciamento para supermercados** com JS puro
 
 ---
 
-## 🌐 Links Importantes
+## 🧠 Habilidades e Tecnologias
 
-- [itch.io (em breve)](https://z1c4.itch.io)
-- [LinkedIn (opcional)](https://linkedin.com/in/seulink)
+<div align="center">
+
+![Godot](https://img.shields.io/badge/Godot-483D8B?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-> “Gameplay bom é aquele que você lembra mesmo depois de fechar o jogo.”
+## 📊 GitHub Stats
 
+<div align="center">
+
+![Z1C4 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z1C4&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1C4&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Atividade recente
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Z1C4&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Links
+
+- 🎮 [itch.io (em breve)](https://z1c4.itch.io)
+- 🧠 [LinkedIn (opcional)](https://linkedin.com/in/seulink)
+- 📩 Contato: seuemail@email.com
+
+---
+
+> “Jogos memoráveis são feitos de ideias ousadas e execução afiada.”  
+> — Z1C4
