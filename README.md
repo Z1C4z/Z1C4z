@@ -1,3 +1,4 @@
+Esboço, informações não 100% verdadeiras
 # 👋 Olá! Eu sou o Z1C4
 
 🎮 Game Designer & Desenvolvedor de Jogos Digitais  
