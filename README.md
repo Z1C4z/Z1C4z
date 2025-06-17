@@ -10,7 +10,6 @@ Esboço, informações não 100% verdadeiras
 
 ## 🚀 Sobre mim
 
-- 🎯 Criador de um **Hero Shooter MOBA com Colossos**
 - 🐸 Dev de um jogo **ritmado de plataforma 2D**, estrelando um sapo amazônico
 - 📱 Experimentando **AR com Godot** e **hand tracking com Python + MediaPipe**
 - 🛒 Desenvolvedor de um sistema de **gerenciamento para supermercados** com JS puro
@@ -29,38 +28,6 @@ Esboço, informações não 100% verdadeiras
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Z1C4 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z1C4z&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z1C4z&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Atividade recente
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Z1C4z&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Links
-
-- 🎮 [itch.io (em breve)](https://z1c4.itch.io)
-- 🧠 [LinkedIn (opcional)](https://linkedin.com/in/seulink)
-- 📩 Contato: seuemail@email.com
 
 ---
 
