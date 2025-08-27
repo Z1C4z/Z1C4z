@@ -8,6 +8,9 @@ Programador com grande paixão em games
 
 ## 🚀 Sobre mim
 
+Meu nome verdadaderio é Andre Luís, mas usa "Z1C4" como apelido na internet.
+Atualmente tenho 18 anos :)
+
 Sou formado no Curso de desenvolvimento de sistemas do Senac Mg. E esses são alguns projetos que fiz:
 - 🐸 Frog and Roll, um jogo de **plataforma 2D com ritmo musical**, estrelando um sapo amazônico
 - 📱 Experiência **VR com Godot** e **hand tracking com Python + MediaPipe**, para smartphones como uma terapia motora das mãos, também em sua versão **Unity** All-in+one.
